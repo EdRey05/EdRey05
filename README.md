@@ -2,7 +2,7 @@
 **EdRey05/EdRey05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Check out my projects via Github pages:
-## |   [Data Science projects](https://edrey05.github.io/)  |  [Tools developed during my Ph.D.](https://edrey05.github.io/Resources_for_Mulligan_Lab/)   |   [Streamlit data app projects](https://edrey05.github.io/Streamlit_projects/)  |
+## |   [Data Science projects](https://edrey05.github.io/)  |   [Streamlit data app projects](https://edrey05.github.io/Streamlit_projects/)  |  [Tools developed during my Ph.D.](https://edrey05.github.io/Resources_for_Mulligan_Lab/)  |
 
 
 
