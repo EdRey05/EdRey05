@@ -15,8 +15,8 @@
   <img align="center" width="80%" height="150%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdRey05&theme=blueberry"/>
 </p>
 <p>
-<img align="left" width="50%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdRey05&theme=blueberry&hide_border=false" />
-<img align="right" width="46%" height="70%" src="https://github-readme-stats.vercel.app/api?username=EdRey05&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
+<img align="left" width="49%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdRey05&theme=blueberry&hide_border=false" />
+<img align="right" width="45%" height="70%" src="https://github-readme-stats.vercel.app/api?username=EdRey05&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 
