@@ -27,10 +27,19 @@ I develop practical software to solve real problems encountered in biomedical re
 
 <tr>
 <td align="center">
-<strong><a href="https://edrey05.github.io/">📊 Data Science Portfolio</a></strong>
+<strong><a href="https://edrey05.github.io/Electron_projects/">⚡ Electron Projects</a></strong>
 </td>
 <td align="center">
-Small collection of Python projects for data analysis, visualization, and scientific computing.
+Desktop applications and utilities built with Electron for practical personal and research workflows.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong><a href="https://edrey05.github.io/Nodejs_projects/">🟩 Node.js Projects</a></strong>
+</td>
+<td align="center">
+Apps and tools developed in Node.js for automation, utilities, and small personal software projects.
 </td>
 </tr>
 
